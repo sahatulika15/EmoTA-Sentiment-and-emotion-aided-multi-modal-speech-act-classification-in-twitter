@@ -8,7 +8,8 @@
 * **Authors:** Tulika Saha, Apoorva Upadhyaya, Sriparna Saha and Pushpak Bhattacharyya
 * **Affiliation:** Indian Institute of Technology Patna, India
 * **Corresponding Author:** [Tulika Saha] (sahatulika15@gmail.com)
-* **Accepted(July, 2021):**  [Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)](https://aclanthology.org/2021.naacl-main.456/)
+* **Accepted(May, 2021):**  [Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)](https://aclanthology.org/2021.naacl-main.456/)
+* **Accepted(June, 2021):**  [IEEE Transactions on Computational Social Systems (IEEE TCSS)](https://ieeexplore.ieee.org/abstract/document/9469005)
 
 If you consider this dataset useful, please cite it as
 
