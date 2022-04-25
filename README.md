@@ -42,5 +42,14 @@ OR
   pages={508-517},
   doi={10.1109/TCSS.2021.3088714}}
 ```
+# Description
 
+1. EmoTA dataset is curated by collecting tweets from an open-sourced tweet dataset named SemEval-2018.
+2. SemEval-2018 dataset has pre-annotated multi-label emotion tags.
+3. The 7 manually annotated TA tags are  “Statement” (sta), “Expression” (exp), “Question” (que), “Request” (req), “Suggestion” (sug), “Threat” (tht)
+and “Others” (oth).
+4. The sentiment label for tweets are obtained following a semi-supervised approach using the IBM Watson Sentiment Classifier(https://cloud.ibm.com/apidocs/natural-language-understanding#sentiment). EmoTA dataset contains the silver-standard sentiment tags.
 
+# Contact
+
+For any queries, feel free to contact the corresponding author Tulika Saha (sahatulika15@gmail.com)
